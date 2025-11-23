@@ -1,0 +1,214 @@
+    M101 Métier et formation
+    M102 Entreprise et son environnement
+    M103 Marketing
+    M104 Statistiques
+    M105 Comptabilité générale
+    M106 Législation sociale
+    M107 Management des organisations
+    M108 Gestion des ressources humaines
+    M109 Outils informatiques de gestion
+    EGTS1 Arabe
+    EGTS2 Communication écrite et orale
+    EGTS3 Anglais technique
+    EGTS4 Culture entrepreneuriale
+    M201 Comptabilité des sociétés
+    M202 Fiscalité des entreprises TVA IS IR
+    M203 Gestion de la paie
+    M204 Diagnostic financier
+    M205 Travaux de fin d'exercice
+    M206 Comptabilité analytique
+    M207 Contrôle de gestion
+    M208 Gestion financière
+    M209 Logiciels de gestion intégrée
+    EGTS5 Communication en langue anglaise
+    EGTS6 Communication en langue française
+    M210 Projet de fin de formation PFE
+    M102 Environnement commercial
+    M103 Techniques de vente
+    M104 Marketing produit
+    M105 Négociation commerciale
+    M106 Gestion stock inventaire
+    M201 Management équipe
+    M202 Stratégie commerciale
+    M203 E-commerce digital
+    M204 Fidélisation client
+    M205 Outils gestion commerciale
+    M102 Communication professionnelle
+    M103 Bureautique avancée
+    M104 Gestion agendas réunions
+    M105 Rédaction professionnelle
+    M201 Management assistant
+    M202 Gestion administratif
+    M203 Gestion correspondance
+    M204 Confidentialité données
+    M205 Outils collaboratif
+    M102 Environnement RH
+    M103 Droit social travail
+    M104 Gestion ressources
+    M105 Paie cotisations
+    M106 Outils RH
+    M201 Recrutement sélection
+    M202 Développement compétences
+    M203 Gestion conflits
+    M204 Conformité légale
+    M102 Chimie et biochimie des aliments
+    M103 Microbiologie alimentaire
+    M104 Procédés de conservation
+    M105 Hygiène et sécurité alimentaire
+    M201 Transformation des produits animaux
+    M202 Transformation des produits végétaux
+    M203 Contrôle qualité
+    M204 Gestion de production
+    M102 Agriculture et oléiculture
+    M103 Chimie et analyse des huiles
+    M104 Technologie production d'olive
+    M201 Extraction et raffinage des huiles
+    M202 Conditionnement et stockage
+    M102 Dessin et croquis
+    M103 Infographie base Photoshop Illustrator
+    M104 Traitement d'image
+    M105 Typographie et mise en page
+    M201 Infographie avancée InDesign
+    M202 Pré-presse et impression
+    M203 Web design base
+    M204 Assurance qualité
+    M205 Organisation d'entreprise
+    M102 Qualité hygiène sécurité
+    M103 Mathématiques appliquées
+    M104 Dessin technique
+    M105 Technologie des matériaux
+    M106 Topographie
+    M107 Résistance des matériaux RDM
+    M108 Mécanique des sols
+    M109 Béton armé
+    M201 Construction métallique
+    M202 Voies de communication
+    M203 Hydraulique et assainissement
+    M204 Gestion de chantier
+    M205 Dessin assisté par ordinateur DAO
+    M206 Législation des marchés publics
+    M102 Sécurité et hygiène
+    M103 Travail du tube cuivre
+    M104 Technologie d'équipement
+    M105 Électricité générale
+    M106 Thermodynamique
+    M107 Mécanique des fluides
+    M108 Matériaux et outillage
+    M109 Dessin technique
+    M201 Installations frigorifiques
+    M202 Climatisation et conditionnement d'air
+    M203 Montage et conduite entrepôts frigorifiques
+    M204 Maintenance des systèmes
+    M205 Réglementation et environnement
+    M102 Électricité générale
+    M103 Électronique de base
+    M104 Automatismes industriels
+    M105 Instrumentation
+    M201 Systèmes automatisés avancés
+    M202 Régulation et commande
+    M203 Programmation PLC
+    M204 Maintenance et diagnostic
+    M102 Électricité base
+    M103 Circuits courant continu
+    M104 Circuits courant alternatif
+    M105 Transformateurs
+    M106 Tableaux électriques
+    M107 Installation électrique bâtiment
+    M108 Protection appareillage
+    M109 Sécurité électrique
+    M201 Machines électriques
+    M202 Moteurs électriques
+    M203 Installation industrielle
+    M204 Diagnostic maintenance
+    M205 Éclairage professionnel
+    M101 Se situer métier et formation
+    M102 Acquérir bases algorithmique
+    M103 Programmer Orienté Objet
+    M104 Développer sites web statiques
+    M105 Programmer JavaScript
+    M106 Concevoir et interroger base données relationnelle
+    M107 Développer application web client-serveur
+    M108 Initier sécurité SI
+    M201 Utiliser framework Front-End React Angular
+    M202 Utiliser framework Back-End Laravel Django
+    M203 Développer application mobile
+    M204 Déployer application web
+    M205 Sécuriser application web
+    M102 Comprendre enjeux système information
+    M103 Concevoir réseau local
+    M104 Installer et configurer système exploitation
+    M105 Gérer utilisateurs et ressources partagées
+    M106 Installer et administrer serveur web
+    M201 Administrer système exploitation serveur
+    M202 Administrer annuaire entreprise
+    M203 Mettre en place infrastructure cloud
+    M204 Superviser et sécuriser système information
+    M205 Automatiser tâches administration
+    M101 Nutrition et régime alimentaire
+    M102 Soins infirmiers de base
+    M103 Droit et éthique
+    M104 Programme sanitaire
+    M105 Notion de sociologie
+    M106 Notion de psychologie
+    M107 Système national de santé
+    M108 Anatomie physiologie
+    M109 Microbiologie parasitologie
+    M110 Pharmacologie
+    M201 Médecine générale
+    M202 Chirurgie générale
+    M203 Pédiatrie
+    M204 Gynécologie obstétrique
+    M205 Soins infirmiers en médecine
+    M206 Soins infirmiers en chirurgie
+    M207 Soins infirmiers en pédiatrie
+    M208 Soins infirmiers gynécologie obstétrique
+    M209 Stages cliniques
+    M301 ORL
+    M302 Dermatologie
+    M303 Santé au travail
+    M304 Urgences et secours
+    M305 Ophtalmologie
+    M306 Psychiatrie
+    M307 Soins infirmiers spécialisés
+    M308 Gestion services santé
+    M309 Stages fin formation
+    M102 Développement de l'enfant
+    M103 Psychologie infantile
+    M104 Activités éducatives
+    M105 Hygiène et sécurité
+    M201 Gestion établissement préscolaire
+    M202 Éducation spéciale
+    M203 Communication et animation
+    M204 Législation sociale
+    M102 Dessin de mode
+    M103 Techniques de couture
+    M104 Matériaux textiles
+    M105 Patronage
+    M201 Création de collections
+    M202 Gestion d'atelier
+    M203 Marketing mode
+    M204 Informatique appliquée mode
+    M102 Logistique et chaîne d'approvisionnement
+    M103 Gestion des stocks
+    M104 Transport international
+    M105 Droit du transport
+    M201 Exploitation opérations logistiques
+    M202 Gestion de flotte
+    M203 Sécurité et environnement
+    M204 Informatique appliquée
+    EGT101 Arabe
+    EGT102 Communication en français
+    EGT103 Anglais technique
+    EGT104 Culture entrepreneuriale
+    EGT105 Compétences comportementales
+    EGT106 Culture et techniques d'expression
+    M102 Production documents Word Excel
+    M103 Communication professionnelle
+    M104 Classement et archivage
+    M105 Accueil et orientation
+    M201 Gestion administrative personnel
+    M202 Comptabilité base
+    M203 Gestion des stocks
+    M204 Gestion commerciale
+    M205 Logiciels de gestion
+    M206 Stage entreprise
